@@ -162,7 +162,7 @@ The space complexity is **O(b^(d/2))** due to the storage required for the queue
 
 **Compile the program**:
 ```bash
-g++ -o rubik_solver q.cpp
+g++ -o rubik_solver solver.cpp
 ```
 
 **Run the program**:
